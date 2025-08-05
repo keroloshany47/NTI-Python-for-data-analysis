@@ -37,7 +37,8 @@ In the final project, I:
 - Analyzed ratings, genres, and users
 - Created visualizations for insights
 
-📍 Check it here: [Final Project/Movie .ipynb](./Final%20Project/Movie%20.ipynb)
+ Check it here: [Final Project/Movie.ipynb](https://github.com/keroloshany47/NTI-Python-for-data-analysis/blob/main/Final%20Project/Movie.ipynb)
+
 
 ---
 
