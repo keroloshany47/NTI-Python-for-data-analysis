@@ -5,7 +5,7 @@ You'll find the weekly notebooks, a cipher task, and the final MovieLens project
 
 ---
 
-## 📂 Repo Structure
+## Repo Structure
 
 - `notebooks/` – Weekly notebooks (Python, NumPy, Pandas, Visualization)
 - `Tasks/` – Course tasks (including the cipher/encryption task)
@@ -13,7 +13,7 @@ You'll find the weekly notebooks, a cipher task, and the final MovieLens project
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - Python  
 - Jupyter Notebook  
@@ -25,7 +25,7 @@ You'll find the weekly notebooks, a cipher task, and the final MovieLens project
 ##  Cipher Task
 
 One of the course assignments was to build a simple encryption/decryption script.  
-You can find it in: `Tasks/Cipher.ipynb`
+ You can find it here: [Tasks/Cipher.ipynb](./Tasks/Cipher.ipynb)
 
 ---
 
@@ -37,7 +37,7 @@ In the final project, I:
 - Analyzed ratings, genres, and users
 - Created visualizations for insights
 
-📍 Check it here: `Final Project/Movie .ipynb`
+📍 Check it here: [Final Project/Movie .ipynb](./Final%20Project/Movie%20.ipynb)
 
 ---
 
