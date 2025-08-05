@@ -12,4 +12,5 @@ users.to_csv("users.csv", index=False)
 movies = pd.read_csv("movies.dat", sep="::", engine="python", names=["MovieID", "Title", "Genres"])
 movies.to_csv("movies.csv", index=False)
 
-print("✔️ تم تحويل الملفات إلى CSV.")
+print("The CSV is converted.")
+
